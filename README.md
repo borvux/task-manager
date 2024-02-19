@@ -1,5 +1,6 @@
-# ruby-cli-template
+# Task Manager CLI
 
-Use this repository as a template for your Ruby CLI (command line interface) project.
+A CLI application that allows users to manage their tasks. It prompts users to input task names, due dates, priorities, and statuses. Then, it displays them in order of priority and due date to help users manage their tasks.
 
-- Ruby version: `3.2.1`
+# To Run
+```Ruby app.rb``` in terminal
