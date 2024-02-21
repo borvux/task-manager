@@ -1,3 +1,3 @@
-require_relative "task_manager.rb"
+require "./task_manager"
 
 TaskManager.new.run
