@@ -96,6 +96,7 @@ class TaskManager
       when 3
         view_tasks
       when 4
+        puts "Exiting"
         break # break to exit out of loop and end the program
       else
         puts "Error! Invalid Number"
